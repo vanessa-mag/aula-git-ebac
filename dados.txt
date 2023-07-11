@@ -3,9 +3,9 @@ Dados do aluno
 -Primeiro Nome: Vanessa
 -Profissão: Suporte Técnico
 -Cidade: Fortaleza-Ce
--O que faz nas horas vaga: Assisto serie
+-O que faz nas horas vaga: Assisto series.
 -Feedback sobre o curso Qualidade de Software: Um curso completo, com excelente metodologia.
--Feedback sobre a plataforma de estudo da EBAC: òtima, tem todo apoio e suporte alema das aulas serem muito práticas.
+-Feedback sobre a plataforma de estudo da EBAC: Ótima, tem todo apoio e suporte.
 
 Obrigado!!!
 
