@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Vanessa
+-Profissão: Suporte Técnico
+-Cidade: Fortaleza-Ce
+-O que faz nas horas vaga: Assisto serie
+-Feedback sobre o curso Qualidade de Software: Um curso completo, com excelente metodologia.
+-Feedback sobre a plataforma de estudo da EBAC: òtima, tem todo apoio e suporte alema das aulas serem muito práticas.
 
 Obrigado!!!
 
