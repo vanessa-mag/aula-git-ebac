@@ -1,8 +1,8 @@
-# Dados aluno
+# Dados aluno 
 Faça a edição dos dados do arquivo dados.txt. 
 Fique a vontade se não quiser responder todos os itens. 
 
-### Instruções: 
+### Instruções:  
 
 -Faça um clone deste repositório em sua máquina;
 
